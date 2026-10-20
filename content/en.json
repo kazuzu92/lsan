@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "name": "Anglais",
+  "placement": [
+    {"level": "A1", "q": "My name ___ Mehdi.", "o": ["am", "is", "are", "be"], "a": 1},
+    {"level": "A1", "q": "___ you from France?", "o": ["Do", "Is", "Are", "Have"], "a": 2},
+    {"level": "A1", "q": "She ___ two children.", "o": ["have", "has", "is", "haves"], "a": 1},
+    {"level": "A1", "q": "« Une voiture » se dit :", "o": ["a car", "a cart", "a care", "a core"], "a": 0},
+    {"level": "A1", "q": "I ___ coffee every morning.", "o": ["drinks", "drinking", "drink", "am drink"], "a": 2},
+    {"level": "A1", "q": "There ___ three people in the office.", "o": ["is", "are", "be", "has"], "a": 1},
+    {"level": "A2", "q": "Yesterday, we ___ to London.", "o": ["go", "goes", "went", "gone"], "a": 2},
+    {"level": "A2", "q": "He ___ TV right now.", "o": ["watches", "is watching", "watch", "watched"], "a": 1},
+    {"level": "A2", "q": "___ did you arrive? — At 9 o'clock.", "o": ["Where", "Why", "What time", "How much"], "a": 2},
+    {"level": "A2", "q": "The meeting is ___ Monday.", "o": ["in", "at", "on", "to"], "a": 2},
+    {"level": "A2", "q": "This hotel is ___ than the other one.", "o": ["more cheap", "cheaper", "cheapest", "most cheap"], "a": 1},
+    {"level": "A2", "q": "I ___ like fish.", "o": ["doesn't", "don't", "not", "am not"], "a": 1},
+    {"level": "A2", "q": "« Un rendez-vous » (professionnel) se dit :", "o": ["a date", "an appointment", "a rendezvous", "an arrangement"], "a": 1},
+    {"level": "B1", "q": "I ___ in Paris since 2015.", "o": ["live", "am living", "have lived", "lived"], "a": 2},
+    {"level": "B1", "q": "If it rains tomorrow, we ___ the visit.", "o": ["cancel", "will cancel", "would cancel", "cancelled"], "a": 1},
+    {"level": "B1", "q": "You ___ wear a helmet on site. It's mandatory.", "o": ["must", "can", "might", "would"], "a": 0},
+    {"level": "B1", "q": "The report ___ by the engineer last week.", "o": ["wrote", "was written", "has written", "is writing"], "a": 1},
+    {"level": "B1", "q": "« Actually » veut dire :", "o": ["actuellement", "en fait", "activement", "exactement"], "a": 1},
+    {"level": "B1", "q": "I'm looking forward ___ you.", "o": ["to see", "seeing", "to seeing", "see"], "a": 2},
+    {"level": "B2", "q": "If I ___ more time, I would learn Japanese.", "o": ["have", "had", "would have", "will have"], "a": 1},
+    {"level": "B2", "q": "By the end of the year, they ___ the new line.", "o": ["will finish", "will have finished", "finish", "have finished"], "a": 1},
+    {"level": "B2", "q": "The contractor ___ have warned us earlier. Now it's too late.", "o": ["must", "should", "can", "will"], "a": 1},
+    {"level": "B2", "q": "« Postpone a meeting » veut dire :", "o": ["avancer une réunion", "annuler une réunion", "reporter une réunion", "préparer une réunion"], "a": 2},
+    {"level": "B2", "q": "Hardly ___ the meeting started when the power went out.", "o": ["did", "had", "has", "was"], "a": 1},
+    {"level": "A1", "listen": "Hello, my name is Sarah. I am a teacher.", "q": "Quel est le métier de Sarah ?", "o": ["Infirmière", "Professeure", "Ingénieure", "Vendeuse"], "a": 1},
+    {"level": "A2", "listen": "The train to Manchester leaves at a quarter past ten from platform four.", "q": "À quelle heure part le train ?", "o": ["10 h 15", "10 h 45", "4 h 10", "9 h 45"], "a": 0},
+    {"level": "A2", "listen": "Could you send me the report before Friday, please?", "q": "Que demande la personne ?", "o": ["Un appel vendredi", "Le rapport avant vendredi", "Une réunion vendredi", "Le rapport après vendredi"], "a": 1},
+    {"level": "B1", "listen": "I'm afraid the delivery has been delayed, so we'll have to move the start of the works to next month.", "q": "Que se passe-t-il ?", "o": ["Les travaux commencent plus tôt", "La livraison est annulée", "Le début des travaux est repoussé au mois prochain", "Les travaux sont terminés"], "a": 2},
+    {"level": "B1", "listen": "Although the budget was tight, the team managed to finish the project on time.", "q": "Qu'a fait l'équipe ?", "o": ["Elle a dépassé le budget", "Elle a fini le projet à temps", "Elle a abandonné le projet", "Elle a demandé plus de temps"], "a": 1},
+    {"level": "B2", "listen": "Had we known about the soil conditions, we would have chosen a different foundation design.", "q": "Que regrette la personne ?", "o": ["De ne pas avoir connu l'état du sol à temps", "D'avoir changé de fondations", "D'avoir trop dépensé", "D'être en retard"], "a": 0}
+  ],
+  "weeks": [
+    {
+      "n": 1,
+      "title": "Se présenter, son métier",
+      "rule": [
+        {"h": "Le verbe *to be* (être)"},
+        {"table": [["I am", "je suis", "I'm"], ["you are", "tu es / vous êtes", "you're"], ["he / she / it is", "il / elle est", "he's, she's, it's"], ["we are", "nous sommes", "we're"], ["they are", "ils / elles sont", "they're"]]},
+        {"p": "À l'oral, on utilise presque toujours la forme courte : *I'm Mehdi*, *I'm a project manager*. Devant un métier, on met toujours *a* ou *an* : *I'm an engineer* (et non *I'm engineer*)."},
+        {"h": "Le verbe *to have* (avoir)"},
+        {"p": "*I / you / we / they have*, mais *he / she / it has*. Pour l'âge, on utilise *be* : *I'm 35* (et non *I have 35 years*)."},
+        {"h": "Le présent simple"},
+        {"p": "Il sert pour les faits et les habitudes : *I work for RTE*. À la 3e personne du singulier, on ajoute **-s** : *he works*, *she manages*. Pour la négation : *I don't work*, *he doesn't work* (sans -s sur le verbe). Pour la question : *Do you work…?*, *Does she work…?*"}
+      ],
+      "items": [
+        {"t": "job", "fr": "un emploi, un poste", "ex": "What's your job?", "exFr": "Quel est ton métier ?"},
+        {"t": "company", "fr": "une entreprise", "ex": "I work for a big company.", "exFr": "Je travaille pour une grande entreprise."},
+        {"t": "project", "fr": "un projet", "ex": "We start a new project in May.", "exFr": "Nous commençons un nouveau projet en mai."},
+        {"t": "project manager", "fr": "un chef de projet", "ex": "I'm a project manager.", "exFr": "Je suis chef de projet."},
+        {"t": "meeting", "fr": "une réunion", "ex": "We have a meeting every Monday.", "exFr": "Nous avons une réunion tous les lundis."},
+        {"t": "colleague", "fr": "un ou une collègue", "ex": "My colleague is from Spain.", "exFr": "Mon collègue est espagnol."},
+        {"t": "team", "fr": "une équipe", "ex": "There are six people in my team.", "exFr": "Il y a six personnes dans mon équipe."},
+        {"t": "contractor", "fr": "un prestataire, une entreprise sous-traitante", "ex": "The contractor starts the works next week.", "exFr": "Le prestataire commence les travaux la semaine prochaine."},
+        {"t": "schedule", "fr": "un planning, un calendrier", "ex": "The schedule is very tight.", "exFr": "Le planning est très serré."},
+        {"t": "office", "fr": "un bureau (le lieu)", "ex": "I work in the office on Tuesdays.", "exFr": "Je travaille au bureau le mardi."},
+        {"t": "customer", "fr": "un client", "ex": "The customer is happy with the result.", "exFr": "Le client est content du résultat."},
+        {"t": "to work", "fr": "travailler", "ex": "Where do you work?", "exFr": "Où travailles-tu ?"},
+        {"t": "to manage", "fr": "gérer, diriger", "ex": "She manages a team of ten engineers.", "exFr": "Elle dirige une équipe de dix ingénieurs."},
+        {"t": "to build", "fr": "construire", "ex": "We build new power lines.", "exFr": "Nous construisons de nouvelles lignes électriques."},
+        {"t": "power line", "fr": "une ligne électrique", "ex": "The power line crosses the river.", "exFr": "La ligne électrique traverse la rivière."},
+        {"t": "engineer", "fr": "un ingénieur", "ex": "He's an engineer.", "exFr": "Il est ingénieur."},
+        {"t": "to live", "fr": "habiter, vivre", "ex": "I live near Paris.", "exFr": "J'habite près de Paris."},
+        {"t": "to speak", "fr": "parler (une langue)", "ex": "I speak French and a little English.", "exFr": "Je parle français et un peu anglais."},
+        {"t": "busy", "fr": "occupé, chargé", "ex": "I'm very busy this week.", "exFr": "Je suis très occupé cette semaine."},
+        {"t": "boss", "fr": "le chef, le patron", "ex": "My boss is in a meeting.", "exFr": "Mon chef est en réunion."},
+        {"t": "to be in charge of", "fr": "être responsable de", "ex": "I'm in charge of three projects.", "exFr": "Je suis responsable de trois projets."},
+        {"t": "nice to meet you", "fr": "enchanté", "ex": "Hi, I'm Tom. — Nice to meet you, Tom.", "exFr": "Salut, je suis Tom. — Enchanté, Tom."}
+      ],
+      "drills": [
+        {"q": "I ___ a project manager. (be)", "a": ["am", "'m"], "fr": "Je suis chef de projet."},
+        {"q": "She ___ for a big company. (work)", "a": ["works"], "fr": "Elle travaille pour une grande entreprise."},
+        {"q": "He ___ two children. (have)", "a": ["has"], "fr": "Il a deux enfants."},
+        {"q": "They ___ engineers. (be)", "a": ["are", "'re"], "fr": "Ils sont ingénieurs."},
+        {"q": "I ___ live in London. (négation)", "a": ["don't", "do not"], "fr": "Je n'habite pas à Londres."},
+        {"q": "___ you speak English? (question)", "a": ["do"], "fr": "Parles-tu anglais ?"},
+        {"q": "She ___ manage the team. (négation)", "a": ["doesn't", "does not"], "fr": "Elle ne dirige pas l'équipe."},
+        {"q": "I'm ___ engineer.", "a": ["an"], "fr": "Je suis ingénieur."}
+      ],
+      "faux": [
+        {"t": "actually", "fr": "en fait (« actuellement » se dit *currently*)"},
+        {"t": "eventually", "fr": "finalement, à la fin (et non « éventuellement »)"},
+        {"t": "to attend", "fr": "assister à (une réunion) — « attendre » se dit *to wait*"}
+      ],
+      "oreille": {
+        "title": "Le son *th*",
+        "tip": "Le *th* se prononce la langue entre les dents. Les francophones le remplacent souvent par *s*, *z* ou *f*. Écoute bien : le *th* est plus doux et « soufflé ».",
+        "prompt": "Quel mot entends-tu ?",
+        "pairs": [["think", "sink"], ["thank", "sank"], ["three", "free"], ["thin", "tin"], ["they", "day"], ["then", "den"], ["mouth", "mouse"], ["path", "pass"]]
+      },
+      "dialogue": {
+        "title": "Première réunion",
+        "lines": [
+          {"s": "A", "t": "Hi, I'm Laura. I'm the new site engineer.", "fr": "Bonjour, je suis Laura. Je suis la nouvelle ingénieure travaux."},
+          {"s": "B", "t": "Nice to meet you, Laura. I'm Mehdi. I'm the project manager.", "fr": "Enchanté, Laura. Je suis Mehdi, le chef de projet."},
+          {"s": "A", "t": "Nice to meet you too. Which project do you manage?", "fr": "Enchantée aussi. Quel projet gères-tu ?"},
+          {"s": "B", "t": "I'm in charge of the new power line in the north.", "fr": "Je suis responsable de la nouvelle ligne électrique dans le nord."},
+          {"s": "A", "t": "Great. Do you work with many contractors?", "fr": "Super. Tu travailles avec beaucoup de prestataires ?"},
+          {"s": "B", "t": "Yes, three. And the schedule is very tight.", "fr": "Oui, trois. Et le planning est très serré."}
+        ]
+      },
+      "production": {
+        "prompt": "Présente-toi en 5 phrases : ton nom, où tu habites, ton métier, ton entreprise, ce dont tu es responsable.",
+        "model": ["Hi, my name is Mehdi.", "I live near Paris.", "I'm a project manager.", "I work for an electricity company.", "I'm in charge of building new power lines."]
+      }
+    },
+    {
+      "n": 2,
+      "title": "Journée et habitudes",
+      "rule": [
+        {"h": "Présent simple ou présent continu ?"},
+        {"p": "Le **présent simple** décrit une habitude : *I usually start at 8*. Le **présent continu** (*be* + verbe en -ing) décrit ce qui se passe en ce moment : *I'm writing a report right now*."},
+        {"table": [["I work every day.", "Je travaille tous les jours (habitude)."], ["I'm working now.", "Je suis en train de travailler (maintenant)."], ["She doesn't drive to work.", "Elle ne va pas au travail en voiture."], ["Are you calling the contractor?", "Tu es en train d'appeler le prestataire ?"]]},
+        {"h": "Les adverbes de fréquence"},
+        {"p": "*always* (toujours), *usually* (d'habitude), *often* (souvent), *sometimes* (parfois), *never* (jamais). Ils se placent **avant** le verbe : *I often work late*, mais **après** *be* : *I'm always busy*."}
+      ],
+      "items": [
+        {"t": "to get up", "fr": "se lever", "ex": "I get up at six.", "exFr": "Je me lève à six heures."},
+        {"t": "to commute", "fr": "faire le trajet domicile-travail", "ex": "I commute by train.", "exFr": "Je fais le trajet en train."},
+        {"t": "to start", "fr": "commencer", "ex": "The meeting starts at nine.", "exFr": "La réunion commence à neuf heures."},
+        {"t": "to finish", "fr": "finir", "ex": "I usually finish at six.", "exFr": "D'habitude, je finis à six heures."},
+        {"t": "deadline", "fr": "une date limite, une échéance", "ex": "The deadline is on Friday.", "exFr": "La date limite est vendredi."},
+        {"t": "report", "fr": "un rapport, un compte rendu", "ex": "I'm writing a report.", "exFr": "Je suis en train d'écrire un rapport."},
+        {"t": "call", "fr": "un appel", "ex": "I have a call at ten.", "exFr": "J'ai un appel à dix heures."},
+        {"t": "to check", "fr": "vérifier", "ex": "I check my emails every morning.", "exFr": "Je vérifie mes e-mails tous les matins."},
+        {"t": "to send", "fr": "envoyer", "ex": "Can you send me the file?", "exFr": "Peux-tu m'envoyer le fichier ?"},
+        {"t": "lunch break", "fr": "la pause déjeuner", "ex": "My lunch break is short.", "exFr": "Ma pause déjeuner est courte."},
+        {"t": "always", "fr": "toujours", "ex": "He's always on time.", "exFr": "Il est toujours à l'heure."},
+        {"t": "usually", "fr": "d'habitude", "ex": "I usually drive to the site.", "exFr": "D'habitude, je vais au chantier en voiture."},
+        {"t": "often", "fr": "souvent", "ex": "We often work late.", "exFr": "Nous travaillons souvent tard."},
+        {"t": "sometimes", "fr": "parfois", "ex": "Sometimes I work from home.", "exFr": "Parfois, je travaille de chez moi."},
+        {"t": "never", "fr": "jamais", "ex": "She never drinks coffee.", "exFr": "Elle ne boit jamais de café."},
+        {"t": "early", "fr": "tôt", "ex": "I leave home early.", "exFr": "Je pars de chez moi tôt."},
+        {"t": "late", "fr": "tard, en retard", "ex": "Sorry, I'm late.", "exFr": "Désolé, je suis en retard."},
+        {"t": "traffic", "fr": "la circulation", "ex": "There's a lot of traffic today.", "exFr": "Il y a beaucoup de circulation aujourd'hui."},
+        {"t": "site", "fr": "un chantier, un site", "ex": "I'm on site this afternoon.", "exFr": "Je suis sur le chantier cet après-midi."},
+        {"t": "right now", "fr": "en ce moment, tout de suite", "ex": "I'm busy right now.", "exFr": "Je suis occupé en ce moment."},
+        {"t": "to work from home", "fr": "télétravailler", "ex": "I work from home on Fridays.", "exFr": "Je télétravaille le vendredi."},
+        {"t": "to be on time", "fr": "être à l'heure", "ex": "The train is on time.", "exFr": "Le train est à l'heure."}
+      ],
+      "drills": [
+        {"q": "I ___ at six every day. (get up)", "a": ["get up"], "fr": "Je me lève à six heures tous les jours."},
+        {"q": "She ___ a report right now. (write)", "a": ["is writing", "'s writing"], "fr": "Elle est en train d'écrire un rapport."},
+        {"q": "We ___ work late. (souvent)", "a": ["often"], "fr": "Nous travaillons souvent tard."},
+        {"q": "He ___ to work by train. (commute)", "a": ["commutes"], "fr": "Il va au travail en train."},
+        {"q": "Look! The contractor ___. (arrive)", "a": ["is arriving", "'s arriving"], "fr": "Regarde ! Le prestataire arrive."},
+        {"q": "I'm ___ busy on Mondays. (toujours)", "a": ["always"], "fr": "Je suis toujours occupé le lundi."},
+        {"q": "They ___ drink coffee. (jamais)", "a": ["never"], "fr": "Ils ne boivent jamais de café."},
+        {"q": "What ___ you doing right now?", "a": ["are"], "fr": "Que fais-tu en ce moment ?"}
+      ],
+      "faux": [
+        {"t": "library", "fr": "une bibliothèque (une librairie = *a bookshop*)"},
+        {"t": "sensible", "fr": "raisonnable (sensible = *sensitive*)"},
+        {"t": "to assist", "fr": "aider (assister à = *to attend*)"}
+      ],
+      "oreille": {
+        "title": "Le *i* court ou long",
+        "tip": "L'anglais distingue un *i* court et détendu (*ship*) et un *i* long et tendu (*sheep*). Le français n'a que le *i* long, d'où les confusions.",
+        "prompt": "Quel mot entends-tu ?",
+        "pairs": [["ship", "sheep"], ["live", "leave"], ["sit", "seat"], ["fill", "feel"], ["hit", "heat"], ["bit", "beat"], ["still", "steal"], ["list", "least"]]
+      },
+      "dialogue": {
+        "title": "Une journée type",
+        "lines": [
+          {"s": "A", "t": "What time do you usually start work?", "fr": "À quelle heure commences-tu le travail d'habitude ?"},
+          {"s": "B", "t": "I usually start at eight, but I get up very early.", "fr": "D'habitude je commence à huit heures, mais je me lève très tôt."},
+          {"s": "A", "t": "Do you drive to the office?", "fr": "Tu vas au bureau en voiture ?"},
+          {"s": "B", "t": "No, I commute by train. There's too much traffic.", "fr": "Non, je fais le trajet en train. Il y a trop de circulation."},
+          {"s": "A", "t": "And what are you working on right now?", "fr": "Et sur quoi travailles-tu en ce moment ?"},
+          {"s": "B", "t": "I'm writing a report. The deadline is on Friday.", "fr": "J'écris un rapport. La date limite est vendredi."}
+        ]
+      },
+      "toeic": {
+        "title": "TOEIC partie 2 : question et réponse",
+        "tip": "Tu entends une question et trois réponses. Choisis la réponse qui convient. Attention aux pièges : une réponse qui reprend un mot de la question est souvent fausse.",
+        "items": [
+          {"q": "What time does the meeting start?", "r": ["In the meeting room.", "At half past nine.", "Yes, it started."], "a": 1},
+          {"q": "Do you usually work from home?", "r": ["Only on Fridays.", "I work for a big company.", "My home is near here."], "a": 0},
+          {"q": "Who is in charge of the new project?", "r": ["It's a very big project.", "Next month.", "Laura is."], "a": 2},
+          {"q": "Why are you late today?", "r": ["There was a lot of traffic.", "I'm never late.", "At eight o'clock."], "a": 0}
+        ]
+      },
+      "production": {
+        "prompt": "Décris ta journée type en 5 à 6 phrases : lever, trajet, travail, pause, fin de journée. Utilise au moins deux adverbes de fréquence.",
+        "model": ["I usually get up at six.", "I commute by train, because there's a lot of traffic.", "I often start with my emails and a call with my team.", "My lunch break is short.", "Sometimes I'm on site in the afternoon.", "I usually finish at six."]
+      }
+    },
+    {
+      "n": 3,
+      "title": "Raconter au passé",
+      "rule": [
+        {"h": "Le prétérit (past simple)"},
+        {"p": "Il raconte une action terminée, souvent avec un moment précis : *yesterday*, *last week*, *two days ago*. Verbes réguliers : on ajoute **-ed** (*work → worked*, *visit → visited*). Négation : *I didn't go* ; question : *Did you go…?* (le verbe revient à l'infinitif)."},
+        {"h": "Les verbes irréguliers les plus fréquents"},
+        {"table": [["be", "was / were", "être"], ["have", "had", "avoir"], ["do", "did", "faire"], ["go", "went", "aller"], ["get", "got", "obtenir, devenir"], ["make", "made", "faire, fabriquer"], ["say", "said", "dire"], ["see", "saw", "voir"], ["come", "came", "venir"], ["take", "took", "prendre"], ["know", "knew", "savoir, connaître"], ["think", "thought", "penser"], ["give", "gave", "donner"], ["find", "found", "trouver"], ["tell", "told", "dire, raconter"], ["leave", "left", "partir, quitter"], ["meet", "met", "rencontrer"], ["buy", "bought", "acheter"], ["pay", "paid", "payer"], ["send", "sent", "envoyer"], ["build", "built", "construire"], ["write", "wrote", "écrire"], ["speak", "spoke", "parler"], ["eat", "ate", "manger"], ["drink", "drank", "boire"], ["sleep", "slept", "dormir"], ["spend", "spent", "dépenser, passer (du temps)"], ["begin", "began", "commencer"], ["feel", "felt", "ressentir"], ["fly", "flew", "voler, prendre l'avion"]]},
+        {"p": "La finale *-ed* se prononce de trois façons : /t/ (*worked*), /d/ (*played*), et /ɪd/ seulement après *t* ou *d* (*visited*, *needed*). Ne prononce jamais *work-ed*."}
+      ],
+      "items": [
+        {"t": "yesterday", "fr": "hier", "ex": "I was on site yesterday.", "exFr": "J'étais sur le chantier hier."},
+        {"t": "last week", "fr": "la semaine dernière", "ex": "We met the customer last week.", "exFr": "Nous avons rencontré le client la semaine dernière."},
+        {"t": "ago", "fr": "il y a (dans le temps)", "ex": "I started this job two years ago.", "exFr": "J'ai commencé ce poste il y a deux ans."},
+        {"t": "weekend", "fr": "le week-end", "ex": "What did you do last weekend?", "exFr": "Qu'as-tu fait le week-end dernier ?"},
+        {"t": "trip", "fr": "un voyage, un déplacement", "ex": "It was a business trip.", "exFr": "C'était un déplacement professionnel."},
+        {"t": "flight", "fr": "un vol", "ex": "My flight was late.", "exFr": "Mon vol était en retard."},
+        {"t": "to book", "fr": "réserver", "ex": "I booked a hotel near the station.", "exFr": "J'ai réservé un hôtel près de la gare."},
+        {"t": "to stay", "fr": "séjourner, rester", "ex": "We stayed three nights in Casablanca.", "exFr": "Nous sommes restés trois nuits à Casablanca."},
+        {"t": "to visit", "fr": "rendre visite, visiter", "ex": "I visited my family.", "exFr": "J'ai rendu visite à ma famille."},
+        {"t": "went", "fr": "suis allé (to go)", "ex": "We went to the beach.", "exFr": "Nous sommes allés à la plage."},
+        {"t": "saw", "fr": "ai vu (to see)", "ex": "I saw a great film.", "exFr": "J'ai vu un super film."},
+        {"t": "took", "fr": "ai pris (to take)", "ex": "I took the train to Lyon.", "exFr": "J'ai pris le train pour Lyon."},
+        {"t": "bought", "fr": "ai acheté (to buy)", "ex": "She bought a new car.", "exFr": "Elle a acheté une nouvelle voiture."},
+        {"t": "met", "fr": "ai rencontré (to meet)", "ex": "I met an old friend.", "exFr": "J'ai rencontré un vieil ami."},
+        {"t": "left", "fr": "suis parti (to leave)", "ex": "We left early in the morning.", "exFr": "Nous sommes partis tôt le matin."},
+        {"t": "came back", "fr": "suis revenu (to come back)", "ex": "I came back on Sunday.", "exFr": "Je suis revenu dimanche."},
+        {"t": "spent", "fr": "ai passé, dépensé (to spend)", "ex": "I spent the weekend with my family.", "exFr": "J'ai passé le week-end avec ma famille."},
+        {"t": "was", "fr": "était (to be)", "ex": "The weather was beautiful.", "exFr": "Il faisait très beau."},
+        {"t": "did", "fr": "ai fait (to do)", "ex": "What did you do on Saturday?", "exFr": "Qu'as-tu fait samedi ?"},
+        {"t": "had", "fr": "ai eu (to have)", "ex": "We had dinner at a nice restaurant.", "exFr": "Nous avons dîné dans un bon restaurant."},
+        {"t": "luggage", "fr": "les bagages", "ex": "My luggage didn't arrive.", "exFr": "Mes bagages ne sont pas arrivés."},
+        {"t": "to enjoy", "fr": "apprécier, profiter de", "ex": "I really enjoyed the trip.", "exFr": "J'ai vraiment apprécié le voyage."}
+      ],
+      "drills": [
+        {"q": "I ___ to Morocco last summer. (go)", "a": ["went"], "fr": "Je suis allé au Maroc l'été dernier."},
+        {"q": "We ___ the customer yesterday. (meet)", "a": ["met"], "fr": "Nous avons rencontré le client hier."},
+        {"q": "She ___ the report two days ago. (send)", "a": ["sent"], "fr": "Elle a envoyé le rapport il y a deux jours."},
+        {"q": "I ___ go to work yesterday. (négation)", "a": ["didn't", "did not"], "fr": "Je ne suis pas allé travailler hier."},
+        {"q": "___ you enjoy the trip? (question)", "a": ["did"], "fr": "As-tu apprécié le voyage ?"},
+        {"q": "The flight ___ late. (be)", "a": ["was"], "fr": "Le vol était en retard."},
+        {"q": "They ___ a new line in 2020. (build)", "a": ["built"], "fr": "Ils ont construit une nouvelle ligne en 2020."},
+        {"q": "I ___ a hotel near the station. (book)", "a": ["booked"], "fr": "J'ai réservé un hôtel près de la gare."}
+      ],
+      "faux": [
+        {"t": "to realize", "fr": "se rendre compte (réaliser un projet = *to carry out*)"},
+        {"t": "journey", "fr": "un trajet, un voyage (une journée = *a day*)"},
+        {"t": "actual", "fr": "réel, véritable (actuel = *current*)"}
+      ],
+      "oreille": {
+        "title": "Le *h* prononcé",
+        "tip": "En anglais, le *h* se prononce presque toujours : un petit souffle, comme quand on embue une vitre. Sans lui, le mot change : *heat* (chaleur) devient *eat* (manger).",
+        "prompt": "Quel mot entends-tu ?",
+        "pairs": [["heat", "eat"], ["hair", "air"], ["hand", "and"], ["hold", "old"], ["hear", "ear"], ["hill", "ill"], ["heart", "art"], ["hate", "eight"]]
+      },
+      "dialogue": {
+        "title": "Le week-end dernier",
+        "lines": [
+          {"s": "A", "t": "Hi Mehdi! How was your weekend?", "fr": "Salut Mehdi ! Comment s'est passé ton week-end ?"},
+          {"s": "B", "t": "It was great. I went to Casablanca to visit my family.", "fr": "C'était super. Je suis allé à Casablanca voir ma famille."},
+          {"s": "A", "t": "Really? When did you leave?", "fr": "C'est vrai ? Quand es-tu parti ?"},
+          {"s": "B", "t": "I took a flight on Friday evening and came back yesterday.", "fr": "J'ai pris un vol vendredi soir et je suis revenu hier."},
+          {"s": "A", "t": "Did you enjoy it?", "fr": "Ça t'a plu ?"},
+          {"s": "B", "t": "Yes, a lot. But my luggage didn't arrive!", "fr": "Oui, beaucoup. Mais mes bagages ne sont pas arrivés !"}
+        ]
+      },
+      "toeic": {
+        "title": "TOEIC partie 2 : question et réponse",
+        "tip": "Repère le mot interrogatif au début (*when*, *where*, *who*, *why*, *how*) : il dit quel type de réponse attendre.",
+        "items": [
+          {"q": "When did you come back from your trip?", "r": ["By plane.", "Last Sunday.", "To Morocco."], "a": 1},
+          {"q": "Where did you stay in London?", "r": ["In a hotel near the station.", "For three nights.", "Yes, I stayed."], "a": 0},
+          {"q": "How was the flight?", "r": ["At six o'clock.", "It was a bit long.", "I booked it online."], "a": 1},
+          {"q": "Did you send the report to the customer?", "r": ["Yes, yesterday afternoon.", "The customer is happy.", "It's a long report."], "a": 0}
+        ]
+      },
+      "production": {
+        "prompt": "Raconte ton dernier week-end en 6 phrases au passé : où tu es allé, avec qui, ce que tu as fait, ce que tu as aimé.",
+        "model": ["Last weekend, I went to the countryside.", "I left on Saturday morning with my family.", "We stayed in a small hotel.", "We visited an old castle and had lunch by the river.", "I really enjoyed the quiet.", "We came back on Sunday evening."]
+      }
+    },
+    {
+      "n": 4,
+      "title": "Questions et rendez-vous",
+      "rule": [
+        {"h": "Poser une question"},
+        {"p": "Avec *be* et les auxiliaires, on inverse : *Are you free?*, *Can you come?*. Avec les autres verbes, on ajoute **do / does / did** : *Do you have time?*, *Does Friday suit you?*, *Did you get my email?*. Le mot interrogatif se met devant : *When are you available?*"},
+        {"h": "*in*, *on*, *at* pour le temps"},
+        {"table": [["at", "une heure précise", "at 10 a.m., at noon, at night"], ["on", "un jour, une date", "on Monday, on 3 May"], ["in", "un mois, une année, une partie de la journée", "in March, in 2027, in the morning"]]},
+        {"p": "Sans préposition : *next week*, *tomorrow*, *this afternoon*, *last Monday*."}
+      ],
+      "items": [
+        {"t": "appointment", "fr": "un rendez-vous (professionnel, médical)", "ex": "I have an appointment at three.", "exFr": "J'ai un rendez-vous à trois heures."},
+        {"t": "available", "fr": "disponible", "ex": "Are you available on Monday?", "exFr": "Es-tu disponible lundi ?"},
+        {"t": "to be free", "fr": "être libre", "ex": "I'm free in the afternoon.", "exFr": "Je suis libre l'après-midi."},
+        {"t": "to schedule", "fr": "planifier, fixer", "ex": "Let's schedule a meeting.", "exFr": "Fixons une réunion."},
+        {"t": "to postpone", "fr": "reporter, repousser", "ex": "We need to postpone the meeting.", "exFr": "Nous devons reporter la réunion."},
+        {"t": "to cancel", "fr": "annuler", "ex": "The visit is cancelled.", "exFr": "La visite est annulée."},
+        {"t": "to confirm", "fr": "confirmer", "ex": "Can you confirm the date?", "exFr": "Peux-tu confirmer la date ?"},
+        {"t": "agenda", "fr": "l'ordre du jour (et non l'agenda)", "ex": "Here is the agenda for tomorrow.", "exFr": "Voici l'ordre du jour de demain."},
+        {"t": "calendar", "fr": "un agenda, un calendrier", "ex": "I'll check my calendar.", "exFr": "Je vais regarder mon agenda."},
+        {"t": "tomorrow", "fr": "demain", "ex": "See you tomorrow.", "exFr": "À demain."},
+        {"t": "next week", "fr": "la semaine prochaine", "ex": "Let's meet next week.", "exFr": "Voyons-nous la semaine prochaine."},
+        {"t": "Does … suit you?", "fr": "Est-ce que … te convient ?", "ex": "Does Thursday suit you?", "exFr": "Est-ce que jeudi te convient ?"},
+        {"t": "to call back", "fr": "rappeler (au téléphone)", "ex": "Can I call you back later?", "exFr": "Je peux te rappeler plus tard ?"},
+        {"t": "to remind", "fr": "rappeler (quelque chose à quelqu'un)", "ex": "Please remind me before the meeting.", "exFr": "Rappelle-le-moi avant la réunion, s'il te plaît."},
+        {"t": "attached", "fr": "en pièce jointe", "ex": "Please find the report attached.", "exFr": "Veuillez trouver le rapport en pièce jointe."},
+        {"t": "I look forward to …", "fr": "dans l'attente de …, j'ai hâte de …", "ex": "I look forward to meeting you.", "exFr": "J'ai hâte de vous rencontrer."},
+        {"t": "Best regards", "fr": "Cordialement", "ex": "Best regards, Mehdi", "exFr": "Cordialement, Mehdi"},
+        {"t": "delay", "fr": "un retard", "ex": "Sorry for the delay.", "exFr": "Désolé pour le retard."},
+        {"t": "as soon as possible", "fr": "dès que possible", "ex": "Please reply as soon as possible.", "exFr": "Merci de répondre dès que possible."},
+        {"t": "noon", "fr": "midi", "ex": "Let's meet at noon.", "exFr": "Retrouvons-nous à midi."},
+        {"t": "to arrange", "fr": "organiser, convenir de", "ex": "I'd like to arrange a site visit.", "exFr": "J'aimerais organiser une visite de chantier."},
+        {"t": "instead", "fr": "à la place", "ex": "Can we meet on Friday instead?", "exFr": "Peut-on se voir vendredi à la place ?"}
+      ],
+      "drills": [
+        {"q": "___ you available on Monday?", "a": ["are"], "fr": "Es-tu disponible lundi ?"},
+        {"q": "___ Thursday suit you?", "a": ["does"], "fr": "Est-ce que jeudi te convient ?"},
+        {"q": "The meeting is ___ 10 a.m.", "a": ["at"], "fr": "La réunion est à 10 h."},
+        {"q": "Let's meet ___ Friday.", "a": ["on"], "fr": "Voyons-nous vendredi."},
+        {"q": "The works start ___ March.", "a": ["in"], "fr": "Les travaux commencent en mars."},
+        {"q": "___ you get my email yesterday?", "a": ["did"], "fr": "As-tu reçu mon e-mail hier ?"},
+        {"q": "When ___ the contractor arrive? (présent)", "a": ["does"], "fr": "Quand le prestataire arrive-t-il ?"},
+        {"q": "I'm free ___ the afternoon.", "a": ["in"], "fr": "Je suis libre l'après-midi."}
+      ],
+      "faux": [
+        {"t": "agenda", "fr": "l'ordre du jour (un agenda = *a diary*, *a calendar*)"},
+        {"t": "to demand", "fr": "exiger (demander = *to ask*)"},
+        {"t": "delay", "fr": "un retard (un délai = *a deadline*, *a lead time*)"}
+      ],
+      "oreille": {
+        "title": "L'accent tonique",
+        "tip": "En français, on accentue la fin du mot. En anglais, chaque mot a une syllabe plus forte, et elle peut changer de place : *PHOtograph*, mais *phoTOgraphy*. Se tromper rend le mot difficile à comprendre.",
+        "prompt": "Quelle syllabe est accentuée ?",
+        "stress": [
+          {"w": "photograph", "syl": ["pho", "to", "graph"], "a": 0},
+          {"w": "photography", "syl": ["pho", "to", "gra", "phy"], "a": 1},
+          {"w": "engineer", "syl": ["en", "gi", "neer"], "a": 2},
+          {"w": "manager", "syl": ["ma", "na", "ger"], "a": 0},
+          {"w": "develop", "syl": ["de", "ve", "lop"], "a": 1},
+          {"w": "company", "syl": ["com", "pa", "ny"], "a": 0},
+          {"w": "hotel", "syl": ["ho", "tel"], "a": 1},
+          {"w": "comfortable", "syl": ["com", "for", "ta", "ble"], "a": 0},
+          {"w": "important", "syl": ["im", "por", "tant"], "a": 1},
+          {"w": "available", "syl": ["a", "vai", "la", "ble"], "a": 1}
+        ]
+      },
+      "dialogue": {
+        "title": "Fixer un rendez-vous",
+        "lines": [
+          {"s": "A", "t": "Hi Mehdi, are you available next week for a site visit?", "fr": "Bonjour Mehdi, es-tu disponible la semaine prochaine pour une visite de chantier ?"},
+          {"s": "B", "t": "Let me check my calendar. Does Tuesday suit you?", "fr": "Je regarde mon agenda. Est-ce que mardi te convient ?"},
+          {"s": "A", "t": "Tuesday is difficult. Can we meet on Thursday instead?", "fr": "Mardi, c'est difficile. Peut-on se voir jeudi à la place ?"},
+          {"s": "B", "t": "Yes, Thursday at ten is fine.", "fr": "Oui, jeudi à dix heures, c'est bon."},
+          {"s": "A", "t": "Great. I'll send you the agenda tomorrow.", "fr": "Parfait. Je t'envoie l'ordre du jour demain."},
+          {"s": "B", "t": "Thanks. Please remind me the day before.", "fr": "Merci. Rappelle-le-moi la veille, s'il te plaît."}
+        ]
+      },
+      "toeic": {
+        "title": "TOEIC partie 2 : question et réponse",
+        "tip": "Une question fermée (*Are you…?*, *Can we…?*) n'appelle pas toujours *yes* ou *no* : une réponse indirecte est souvent la bonne.",
+        "items": [
+          {"q": "Can we postpone the meeting to Friday?", "r": ["I'm on holiday on Friday.", "The meeting room is booked.", "Yes, it's a long meeting."], "a": 0},
+          {"q": "When are you available for a call?", "r": ["I called him yesterday.", "Any time after two.", "On the phone."], "a": 1},
+          {"q": "Did you receive the agenda?", "r": ["Yes, it was attached to the email.", "I'll receive it.", "My calendar is full."], "a": 0},
+          {"q": "Who will confirm the date?", "r": ["On the fifth of May.", "My assistant will.", "It's confirmed for the date."], "a": 1}
+        ]
+      },
+      "production": {
+        "prompt": "Écris un court e-mail à un prestataire anglais pour fixer une réunion la semaine prochaine : propose deux créneaux, demande une confirmation, et termine poliment.",
+        "model": ["Dear Mr Smith,", "I would like to arrange a meeting next week to discuss the schedule.", "Are you available on Tuesday at 10 a.m. or on Thursday at 2 p.m.?", "Please find the agenda attached.", "Could you confirm as soon as possible?", "I look forward to meeting you.", "Best regards,", "Mehdi"]
+      }
+    }
+  ]
+}

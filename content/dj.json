@@ -1,0 +1,297 @@
+{
+  "lang": "dj",
+  "name": "Darija",
+  "weeks": [
+    {
+      "n": 1,
+      "title": "Saluer et remercier",
+      "rule": [
+        {"h": "Écrire le darija avec des chiffres"},
+        {"p": "Au Maroc, on écrit souvent le darija en lettres latines, comme sur WhatsApp. Les chiffres remplacent les sons qui n'existent pas en français :"},
+        {"table": [["3", "ع", "un son serré au fond de la gorge, comme une voyelle « étranglée »", "3afak"], ["7", "ح", "un *h* soufflé et fort, comme pour embuer une vitre très fort", "l7amdoullah"], ["9", "ق", "un *k* prononcé tout au fond de la gorge", "9hwa (café)"], ["kh", "خ", "le *r* raclé de la jota espagnole", "khouya"], ["gh", "غ", "un *r* grasseyé, comme le *r* parisien", "ghali"], ["ch", "ش", "comme en français", "chokran"]]},
+        {"p": "Il n'y a pas d'orthographe officielle : tu verras aussi *chukran* ou *shukran*. L'app accepte les variantes courantes."},
+        {"h": "Masculin et féminin"},
+        {"p": "Quand on parle à quelqu'un, la forme change selon que c'est un homme ou une femme : *kidayr?* (à un homme), *kidayra?* (à une femme). On ajoute souvent un *-a* au féminin."}
+      ],
+      "items": [
+        {"t": "salam", "ar": "سَلَامْ", "fr": "bonjour, salut", "alt": ["slam"]},
+        {"t": "salam 3alikoum", "ar": "السَّلَامْ عْلِيكُمْ", "fr": "bonjour (formule respectueuse)", "alt": ["salam alikoum", "salamou 3alikoum"], "ex": "salam 3alikoum — wa 3alikoum salam", "exAr": "السَّلَامْ عْلِيكُمْ. وْ عْلِيكُمْ السَّلَامْ", "exFr": "Bonjour. — Bonjour (réponse)."},
+        {"t": "labas?", "ar": "لَابَاسْ؟", "fr": "ça va ?", "alt": ["labass"]},
+        {"t": "labas, l7amdoullah", "ar": "لَابَاسْ، الْحَمْدُ لِلَّهْ", "fr": "ça va, Dieu merci", "alt": ["labas lhamdoullah", "labas l7amdolah"], "msa": "Même expression qu'en arabe standard : *al-hamdu lillah*."},
+        {"t": "bikhir", "ar": "بِخِيرْ", "fr": "bien (je vais bien)", "alt": ["bikher"]},
+        {"t": "kidayr?", "ar": "كِيدَايْرْ؟", "fr": "comment vas-tu ? (à un homme)", "alt": ["kidair", "kidayer"]},
+        {"t": "kidayra?", "ar": "كِيدَايْرَة؟", "fr": "comment vas-tu ? (à une femme)", "alt": ["kidaira"]},
+        {"t": "sba7 lkhir", "ar": "صْبَاحْ الْخِيرْ", "fr": "bonjour (le matin)", "alt": ["sbah lkhir", "sba7 lkhir"]},
+        {"t": "msa lkhir", "ar": "مْسَا الْخِيرْ", "fr": "bonsoir", "alt": ["mse lkhir"]},
+        {"t": "chokran", "ar": "شُكْرَانْ", "fr": "merci", "alt": ["choukran", "shukran", "chukran"]},
+        {"t": "bla jmil", "ar": "بْلَا جْمِيلْ", "fr": "de rien", "alt": ["bla jmel"]},
+        {"t": "3afak", "ar": "عَافَاكْ", "fr": "s'il te plaît", "alt": ["afak"], "msa": "En arabe standard, on dirait *min fadlik*. Au Maroc, on dit *3afak*."},
+        {"t": "sma7li", "ar": "سْمَحْ لِي", "fr": "pardon, excuse-moi", "alt": ["smahli", "sme7li"]},
+        {"t": "wakha", "ar": "وَاخَا", "fr": "d'accord", "alt": ["wakhkha", "wakhaa"]},
+        {"t": "iyeh", "ar": "إِيِّيهْ", "fr": "oui", "alt": ["iyyeh", "ah"]},
+        {"t": "la", "ar": "لَا", "fr": "non"},
+        {"t": "beslama", "ar": "بِسْلَامَة", "fr": "au revoir", "alt": ["bslama", "besslama"]},
+        {"t": "nchoufek men b3d", "ar": "نْشُوفْكْ مْنْ بْعْدْ", "fr": "à plus tard", "alt": ["nchofk mn b3d", "nchoufek mn ba3d"]},
+        {"t": "mr7ba bik", "ar": "مَرْحْبَا بِيكْ", "fr": "bienvenue", "alt": ["merhba bik", "mar7ba bik"]},
+        {"t": "inchallah", "ar": "إِنْ شَاءَ اللَّهْ", "fr": "si Dieu le veut (pour tout projet futur)", "alt": ["inshallah", "nchallah"]}
+      ],
+      "drills": [
+        {"q": "Pour demander « ça va ? » : ___", "a": ["labas", "labas?"], "fr": "labas?"},
+        {"q": "« Merci » se dit : ___", "a": ["chokran", "choukran", "shukran", "chukran"], "fr": "chokran"},
+        {"q": "Tu réponds à « chokran » par : ___ jmil", "a": ["bla"], "fr": "bla jmil"},
+        {"q": "« S'il te plaît » se dit : ___", "a": ["3afak", "afak"], "fr": "3afak"},
+        {"q": "Tu demandes « comment vas-tu ? » à une femme : ___", "a": ["kidayra", "kidayra?", "kidaira"], "fr": "kidayra?"},
+        {"q": "« D'accord » se dit : ___", "a": ["wakha", "wakhkha"], "fr": "wakha"}
+      ],
+      "oreille": {
+        "title": "Les sons 3 et 7",
+        "tip": "Le 3 (ع) et le 7 (ح) n'existent pas en français. Le 7 est un souffle fort, sans voix. Le 3 se fait au même endroit, mais avec la voix, comme une voyelle serrée. Écoute le début de chaque mot.",
+        "prompt": "Par quel son commence ce mot ?",
+        "letters": [
+          {"w": "3ayn", "ar": "عِينْ", "fr": "œil", "a": "3"},
+          {"w": "3afak", "ar": "عَافَاكْ", "fr": "s'il te plaît", "a": "3"},
+          {"w": "3ndi", "ar": "عَنْدِي", "fr": "j'ai", "a": "3"},
+          {"w": "7ut", "ar": "حُوتْ", "fr": "poisson", "a": "7"},
+          {"w": "7lib", "ar": "حْلِيبْ", "fr": "lait", "a": "7"},
+          {"w": "7mar", "ar": "حْمَارْ", "fr": "âne", "a": "7"},
+          {"w": "hna", "ar": "هْنَا", "fr": "ici", "a": "h"},
+          {"w": "hadi", "ar": "هَادِي", "fr": "celle-ci", "a": "h"},
+          {"w": "ana", "ar": "أَنَا", "fr": "moi", "a": "a"},
+          {"w": "aman", "ar": "أَمَانْ", "fr": "sécurité", "a": "a"}
+        ],
+        "choices": ["3", "7", "h", "a"]
+      },
+      "dialogue": {
+        "title": "Première rencontre",
+        "lines": [
+          {"s": "A", "t": "salam 3alikoum!", "ar": "السَّلَامْ عْلِيكُمْ", "fr": "Bonjour !"},
+          {"s": "B", "t": "wa 3alikoum salam. labas?", "ar": "وْ عْلِيكُمْ السَّلَامْ. لَابَاسْ؟", "fr": "Bonjour. Ça va ?"},
+          {"s": "A", "t": "labas, l7amdoullah. w nta, kidayr?", "ar": "لَابَاسْ، الْحَمْدُ لِلَّهْ. وْ نْتَا، كِيدَايْرْ؟", "fr": "Ça va, Dieu merci. Et toi, comment vas-tu ?"},
+          {"s": "B", "t": "bikhir, chokran. mr7ba bik!", "ar": "بِخِيرْ، شُكْرَانْ. مَرْحْبَا بِيكْ", "fr": "Bien, merci. Bienvenue !"},
+          {"s": "A", "t": "chokran. beslama, nchoufek men b3d.", "ar": "شُكْرَانْ. بِسْلَامَة، نْشُوفْكْ مْنْ بْعْدْ", "fr": "Merci. Au revoir, à plus tard."},
+          {"s": "B", "t": "beslama, inchallah.", "ar": "بِسْلَامَة، إِنْ شَاءَ اللَّهْ", "fr": "Au revoir, si Dieu le veut."}
+        ]
+      },
+      "production": {
+        "prompt": "Joue la rencontre : salue quelqu'un de façon respectueuse, demande-lui comment il va, réponds que tu vas bien, remercie et dis au revoir.",
+        "model": ["salam 3alikoum.", "labas? kidayr?", "labas, l7amdoullah, bikhir.", "chokran.", "beslama, nchoufek men b3d."]
+      }
+    },
+    {
+      "n": 2,
+      "title": "Nombres et marché",
+      "rule": [
+        {"h": "Les nombres"},
+        {"table": [["1", "wa7ed"], ["2", "jouj"], ["3", "tlata"], ["4", "rb3a"], ["5", "khamsa"], ["6", "stta"], ["7", "sb3a"], ["8", "tmnya"], ["9", "ts3oud"], ["10", "3achra"], ["11", "7dach"], ["12", "tnach"], ["15", "khmstach"], ["20", "3chrin"], ["30", "tlatin"], ["50", "khamsin"], ["100", "mya"]]},
+        {"p": "Pour 21, 22… on dit l'unité d'abord : *wa7ed w 3chrin* (21), *jouj w 3chrin* (22). On dit *jouj* pour compter (2), mais *jouj drahem* (2 dirhams)."},
+        {"h": "Dirhams et ryals"},
+        {"p": "Au marché, beaucoup de gens comptent en **ryals** : 1 dirham = 20 ryals. « 100 ryals » veut donc dire 5 dirhams, et « mitin » (200 ryals) veut dire 10 dirhams. Si tu as un doute, demande : *b drahem?* (en dirhams ?)."}
+      ],
+      "items": [
+        {"t": "wa7ed", "ar": "وَاحْدْ", "fr": "un (1)", "alt": ["wahed", "wa7d"]},
+        {"t": "jouj", "ar": "جُوجْ", "fr": "deux (2)", "alt": ["jooj", "juj"]},
+        {"t": "tlata", "ar": "تْلَاتَة", "fr": "trois (3)", "alt": ["tlata"]},
+        {"t": "rb3a", "ar": "رْبْعَة", "fr": "quatre (4)", "alt": ["reb3a", "rb3"]},
+        {"t": "khamsa", "ar": "خَمْسَة", "fr": "cinq (5)"},
+        {"t": "stta", "ar": "سْتَّة", "fr": "six (6)", "alt": ["setta", "sta"]},
+        {"t": "sb3a", "ar": "سْبْعَة", "fr": "sept (7)", "alt": ["seb3a"]},
+        {"t": "tmnya", "ar": "تْمْنْيَة", "fr": "huit (8)", "alt": ["tmenya", "tmanya"]},
+        {"t": "ts3oud", "ar": "تْسْعُودْ", "fr": "neuf (9)", "alt": ["tes3od", "ts3od"]},
+        {"t": "3achra", "ar": "عَشْرَة", "fr": "dix (10)", "alt": ["achra", "3ashra"]},
+        {"t": "bch7al?", "ar": "بْشْحَالْ؟", "fr": "combien ?", "alt": ["bchhal", "bsh7al", "bch7al"], "msa": "En arabe standard : *kam*. Au Maroc : *bch7al*."},
+        {"t": "bch7al hada?", "ar": "بْشْحَالْ هَادَا؟", "fr": "c'est combien, ça ?", "alt": ["bchhal hada", "bch7al hadi"]},
+        {"t": "ghali bzzaf", "ar": "غَالِي بْزَّافْ", "fr": "c'est trop cher", "alt": ["ghali bzaf"]},
+        {"t": "nqess chwiya", "ar": "نْقْصْ شْوِيَّة", "fr": "baisse un peu (le prix)", "alt": ["n9ess chwiya", "n9s chwia"]},
+        {"t": "bghit…", "ar": "بْغِيتْ", "fr": "je veux…", "alt": ["bghit"]},
+        {"t": "3tini…", "ar": "عْطِينِي", "fr": "donne-moi…", "alt": ["3tini", "atini"]},
+        {"t": "drahem", "ar": "دْرَاهْمْ", "fr": "des dirhams, de l'argent", "alt": ["drahm"]},
+        {"t": "ryal", "ar": "رْيَالْ", "fr": "ryal (1 dirham = 20 ryals)", "alt": ["rial"]},
+        {"t": "safi", "ar": "صَافِي", "fr": "c'est bon, ça suffit", "alt": ["safy"]},
+        {"t": "ma 3ndich sserf", "ar": "مَا عَنْدِيشْ الصَّرْفْ", "fr": "je n'ai pas de monnaie", "alt": ["ma 3ndich sarf", "ma3ndich sserf"]}
+      ],
+      "drills": [
+        {"q": "« Combien ? » se dit : ___", "a": ["bch7al", "bch7al?", "bchhal"], "fr": "bch7al?"},
+        {"q": "Le nombre 5 : ___", "a": ["khamsa"], "fr": "khamsa"},
+        {"q": "Le nombre 2 : ___", "a": ["jouj", "jooj"], "fr": "jouj"},
+        {"q": "« C'est trop cher » : ghali ___", "a": ["bzzaf", "bzaf"], "fr": "ghali bzzaf"},
+        {"q": "100 ryals = combien de dirhams ? (en chiffres)", "a": ["5"], "fr": "5 dirhams"},
+        {"q": "« Je veux » : ___", "a": ["bghit"], "fr": "bghit"}
+      ],
+      "oreille": {
+        "title": "Le 9 et le k",
+        "tip": "Le 9 (ق) se prononce tout au fond de la gorge, plus bas que le *k*. La différence change le sens : *9lb* (cœur) et *klb* (chien). À Casablanca, le 9 se prononce souvent *g* dans certains mots (*gal*, il a dit).",
+        "prompt": "Par quel son commence ce mot ?",
+        "letters": [
+          {"w": "9lb", "ar": "قَلْبْ", "fr": "cœur", "a": "9"},
+          {"w": "klb", "ar": "كَلْبْ", "fr": "chien", "a": "k"},
+          {"w": "9hwa", "ar": "قَهْوَة", "fr": "café", "a": "9"},
+          {"w": "kas", "ar": "كَاسْ", "fr": "verre", "a": "k"},
+          {"w": "9ra", "ar": "قْرَا", "fr": "il a étudié", "a": "9"},
+          {"w": "kra", "ar": "كْرَا", "fr": "il a loué", "a": "k"},
+          {"w": "9rib", "ar": "قْرِيبْ", "fr": "près", "a": "9"},
+          {"w": "kbir", "ar": "كْبِيرْ", "fr": "grand", "a": "k"}
+        ],
+        "choices": ["9", "k"]
+      },
+      "dialogue": {
+        "title": "Au marché",
+        "lines": [
+          {"s": "A", "t": "salam. bch7al had lkhodra?", "ar": "سَلَامْ. بْشْحَالْ هَادْ الْخُضْرَة؟", "fr": "Bonjour. Combien coûtent ces légumes ?"},
+          {"s": "B", "t": "3achra drahem lkilo.", "ar": "عَشْرَة دْرَاهْمْ الْكِيلُو", "fr": "Dix dirhams le kilo."},
+          {"s": "A", "t": "ghali bzzaf! nqess chwiya 3afak.", "ar": "غَالِي بْزَّافْ! نْقْصْ شْوِيَّة عَافَاكْ", "fr": "C'est trop cher ! Baisse un peu, s'il te plaît."},
+          {"s": "B", "t": "wakha, tmnya drahem.", "ar": "وَاخَا، تْمْنْيَة دْرَاهْمْ", "fr": "D'accord, huit dirhams."},
+          {"s": "A", "t": "safi, 3tini jouj kilo.", "ar": "صَافِي، عْطِينِي جُوجْ كِيلُو", "fr": "C'est bon, donne-moi deux kilos."},
+          {"s": "B", "t": "hak. sttach drahem.", "ar": "هَاكْ. سْطَّاشْ دْرَاهْمْ", "fr": "Tiens. Seize dirhams."}
+        ]
+      },
+      "production": {
+        "prompt": "Joue la scène du marché : demande le prix, dis que c'est trop cher, négocie, et achète deux kilos.",
+        "model": ["salam, bch7al hada?", "ghali bzzaf!", "nqess chwiya 3afak.", "wakha, safi.", "3tini jouj kilo."]
+      }
+    },
+    {
+      "n": 3,
+      "title": "Se présenter et la famille",
+      "rule": [
+        {"h": "Le possessif collé au nom"},
+        {"p": "Comme en arabe standard, le possessif se colle à la fin du nom :"},
+        {"table": [["-i / -ya", "mon, ma", "khouya (mon frère), khti (ma sœur)"], ["-k", "ton, ta", "khouk (ton frère), khtek (ta sœur)"], ["-ou / -h", "son (à lui)", "khouh (son frère)"], ["-ha", "son (à elle)", "khouha (son frère, à elle)"], ["-na", "notre", "khouna (notre frère)"]]},
+        {"h": "Avoir : *3nd*"},
+        {"p": "Il n'y a pas de verbe « avoir ». On dit *3nd* (chez) + le possessif : *3ndi* (j'ai), *3ndek* (tu as), *3ndou* (il a). La négation entoure le mot : *ma 3ndich* (je n'ai pas)."}
+      ],
+      "items": [
+        {"t": "smiti…", "ar": "سْمِيتِي", "fr": "je m'appelle…", "alt": ["smiyti"], "ex": "smiti Mehdi", "exAr": "سْمِيتِي مَهْدِي", "exFr": "Je m'appelle Mehdi."},
+        {"t": "chno smitek?", "ar": "شْنُو سْمِيتْكْ؟", "fr": "comment tu t'appelles ?", "alt": ["chnou smitek", "chno smytek"]},
+        {"t": "ana men…", "ar": "أَنَا مْنْ", "fr": "je suis de…", "alt": ["ana mn"], "ex": "ana men Casablanca", "exAr": "أَنَا مْنْ كَازَا", "exFr": "Je suis de Casablanca."},
+        {"t": "ka nskon f…", "ar": "كَنْسْكُنْ فْ", "fr": "j'habite à…", "alt": ["kanskon f", "kansken f"], "ex": "ka nskon f França", "exAr": "كَنْسْكُنْ فْ فْرَانْسَا", "exFr": "J'habite en France."},
+        {"t": "ka nkhdem", "ar": "كَنْخْدْمْ", "fr": "je travaille", "alt": ["kankhdem", "ka nkhdm"]},
+        {"t": "bba", "ar": "بَّا", "fr": "papa, mon père", "alt": ["baba", "ba"]},
+        {"t": "mama", "ar": "مَامَا", "fr": "maman, ma mère", "alt": ["mmi", "yemma"]},
+        {"t": "khouya", "ar": "خُويَا", "fr": "mon frère", "alt": ["khoya"]},
+        {"t": "khti", "ar": "خْتِي", "fr": "ma sœur", "alt": ["khty"]},
+        {"t": "mrati", "ar": "مْرَاتِي", "fr": "ma femme", "alt": ["mrati"]},
+        {"t": "rajli", "ar": "رَاجْلِي", "fr": "mon mari", "alt": ["rajel dyali"]},
+        {"t": "wldi", "ar": "وْلْدِي", "fr": "mon fils", "alt": ["weldi", "wlidi"]},
+        {"t": "bnti", "ar": "بْنْتِي", "fr": "ma fille", "alt": ["benti"]},
+        {"t": "drari", "ar": "دْرَارِي", "fr": "les enfants", "alt": ["drary", "wlad"]},
+        {"t": "3ndi", "ar": "عَنْدِي", "fr": "j'ai", "alt": ["andi", "3andi"], "ex": "3ndi jouj drari", "exAr": "عَنْدِي جُوجْ دْرَارِي", "exFr": "J'ai deux enfants."},
+        {"t": "ma 3ndich", "ar": "مَا عَنْدِيشْ", "fr": "je n'ai pas", "alt": ["ma3ndich", "ma andich"]},
+        {"t": "3ammi", "ar": "عَمِّي", "fr": "mon oncle (côté père)", "alt": ["ammi"]},
+        {"t": "khali", "ar": "خَالِي", "fr": "mon oncle (côté mère)", "alt": ["khaly"]},
+        {"t": "jddi", "ar": "جْدِّي", "fr": "mon grand-père", "alt": ["jeddi"]},
+        {"t": "mzawwej", "ar": "مْزَوّْجْ", "fr": "marié", "alt": ["mzwej", "mzawej", "mtzwej"]}
+      ],
+      "drills": [
+        {"q": "« Je m'appelle Mehdi » : ___ Mehdi", "a": ["smiti"], "fr": "smiti Mehdi"},
+        {"q": "« Mon frère » : ___", "a": ["khouya", "khoya"], "fr": "khouya"},
+        {"q": "« Ton frère » : ___", "a": ["khouk"], "fr": "khouk"},
+        {"q": "« J'ai » : ___", "a": ["3ndi", "andi"], "fr": "3ndi"},
+        {"q": "« Je n'ai pas » : ma ___", "a": ["3ndich", "andich"], "fr": "ma 3ndich"},
+        {"q": "« Ma sœur » : ___", "a": ["khti"], "fr": "khti"}
+      ],
+      "oreille": {
+        "title": "Les sons kh et gh",
+        "tip": "Le *kh* (خ) est un raclement sans voix, comme la jota espagnole. Le *gh* (غ) se fait au même endroit, avec la voix, comme le *r* parisien. Écoute le début de chaque mot.",
+        "prompt": "Par quel son commence ce mot ?",
+        "letters": [
+          {"w": "khobz", "ar": "خُبْزْ", "fr": "pain", "a": "kh"},
+          {"w": "khouya", "ar": "خُويَا", "fr": "mon frère", "a": "kh"},
+          {"w": "khdma", "ar": "خْدْمَة", "fr": "travail", "a": "kh"},
+          {"w": "ghali", "ar": "غَالِي", "fr": "cher", "a": "gh"},
+          {"w": "ghda", "ar": "غْدَّا", "fr": "demain", "a": "gh"},
+          {"w": "ghir", "ar": "غِيرْ", "fr": "seulement", "a": "gh"},
+          {"w": "rajli", "ar": "رَاجْلِي", "fr": "mon mari", "a": "r"},
+          {"w": "ras", "ar": "رَاسْ", "fr": "tête", "a": "r"}
+        ],
+        "choices": ["kh", "gh", "r"]
+      },
+      "dialogue": {
+        "title": "Faire connaissance",
+        "lines": [
+          {"s": "A", "t": "salam, chno smitek?", "ar": "سَلَامْ، شْنُو سْمِيتْكْ؟", "fr": "Bonjour, comment tu t'appelles ?"},
+          {"s": "B", "t": "smiti Mehdi. ana men Casa, walakin ka nskon f França.", "ar": "سْمِيتِي مَهْدِي. أَنَا مْنْ كَازَا، وَلَكِنْ كَنْسْكُنْ فْ فْرَانْسَا", "fr": "Je m'appelle Mehdi. Je suis de Casablanca, mais j'habite en France."},
+          {"s": "A", "t": "mr7ba! nta mzawwej?", "ar": "مَرْحْبَا! نْتَا مْزَوّْجْ؟", "fr": "Bienvenue ! Tu es marié ?"},
+          {"s": "B", "t": "iyeh, w 3ndi jouj drari.", "ar": "إِيِّيهْ، وْ عَنْدِي جُوجْ دْرَارِي", "fr": "Oui, et j'ai deux enfants."},
+          {"s": "A", "t": "llah y7fdhoum. w bbak w mamak?", "ar": "اللَّهْ يْحْفْظْهُمْ. وْ بَّاكْ وْ مَامَاكْ؟", "fr": "Que Dieu les protège. Et ton père et ta mère ?"},
+          {"s": "B", "t": "huma f Casa, m3a khouya.", "ar": "هُومَا فْ كَازَا، مْعَا خُويَا", "fr": "Ils sont à Casablanca, avec mon frère."}
+        ]
+      },
+      "production": {
+        "prompt": "Présente-toi : ton prénom, d'où tu viens, où tu habites, et ta famille (frères, sœurs, enfants). Adapte les phrases à ta vraie situation.",
+        "model": ["smiti Mehdi.", "ana men Casa.", "ka nskon f França.", "3ndi khouya w khti.", "bba w mama f Casa."]
+      }
+    },
+    {
+      "n": 4,
+      "title": "Se déplacer",
+      "rule": [
+        {"h": "Poser une question"},
+        {"table": [["fin?", "où ?", "fin kayn lmahatta? (où est la gare ?)"], ["chno?", "quoi ?", "chno hada? (c'est quoi, ça ?)"], ["chkoun?", "qui ?", "chkoun nta? (qui es-tu ?)"], ["imta?", "quand ?", "imta ghadi tji? (quand vas-tu venir ?)"], ["3lach?", "pourquoi ?", "3lach? (pourquoi ?)"], ["kifach?", "comment ?", "kifach nmchi? (comment j'y vais ?)"], ["bch7al?", "combien ?", "bch7al l Maarif? (combien jusqu'au Maarif ?)"]]},
+        {"p": "Le mot interrogatif se met au début, sans inversion. *Kayn* veut dire « il y a » ou « se trouve » : *fin kayn…?* (où se trouve… ?)."},
+        {"h": "Mots venus du français et de l'espagnol"},
+        {"p": "Le darija a adopté beaucoup de mots étrangers, faciles pour toi : *tomobil* (voiture), *tobis* (bus), *tran* (train), *lagar* (la gare), *frigo*. Ils prennent souvent l'article *l-* : *ttomobil* (la voiture)."}
+      ],
+      "items": [
+        {"t": "fin?", "ar": "فِينْ؟", "fr": "où ?", "alt": ["fine", "fin"], "msa": "En arabe standard : *ayna*. Au Maroc : *fin*."},
+        {"t": "fin kayn…?", "ar": "فِينْ كَايْنْ", "fr": "où se trouve… ?", "alt": ["fin kain"]},
+        {"t": "sir nichan", "ar": "سِيرْ نِيشَانْ", "fr": "va tout droit", "alt": ["sir nishan"]},
+        {"t": "dour 3la limen", "ar": "دُورْ عْلَى لِيمْنْ", "fr": "tourne à droite", "alt": ["dor 3la limen", "dour limen"]},
+        {"t": "dour 3la lissar", "ar": "دُورْ عْلَى لِيسْرْ", "fr": "tourne à gauche", "alt": ["dor 3la lisser", "dour lissar"]},
+        {"t": "7bess hna", "ar": "حْبْسْ هْنَا", "fr": "arrête-toi ici", "alt": ["7bes hna", "hbes hna"]},
+        {"t": "b3id", "ar": "بْعِيدْ", "fr": "loin", "alt": ["ba3id", "bi3id"]},
+        {"t": "9rib", "ar": "قْرِيبْ", "fr": "près", "alt": ["qrib", "grib"]},
+        {"t": "taxi sghir", "ar": "طَاكْسِي صْغِيرْ", "fr": "petit taxi (en ville)", "alt": ["taxi sghir"]},
+        {"t": "taxi kbir", "ar": "طَاكْسِي كْبِيرْ", "fr": "grand taxi (entre villes, partagé)"},
+        {"t": "tomobil", "ar": "طُومُوبِيلْ", "fr": "une voiture", "alt": ["tonobil", "tomobile"]},
+        {"t": "tobis", "ar": "طُوبِيسْ", "fr": "un bus", "alt": ["tobiss"]},
+        {"t": "tran", "ar": "تْرَانْ", "fr": "le train", "alt": ["tren"]},
+        {"t": "lagar", "ar": "لَاكَارْ", "fr": "la gare", "alt": ["la gare", "lgar"]},
+        {"t": "bghit nmchi l…", "ar": "بْغِيتْ نْمْشِي لْ", "fr": "je veux aller à…", "alt": ["bghit nemchi l"], "ex": "bghit nmchi l Maarif", "exAr": "بْغِيتْ نْمْشِي لْمْعَارِيفْ", "exFr": "Je veux aller au Maarif."},
+        {"t": "chno?", "ar": "شْنُو؟", "fr": "quoi ?", "alt": ["chnou", "chnu"]},
+        {"t": "imta?", "ar": "إِمْتَى؟", "fr": "quand ?", "alt": ["imta", "fo9ach"]},
+        {"t": "kifach?", "ar": "كِيفَاشْ؟", "fr": "comment ?", "alt": ["kifash"]},
+        {"t": "daba", "ar": "دَابَا", "fr": "maintenant", "alt": ["dabba"]},
+        {"t": "bchwiya", "ar": "بْشْوِيَّة", "fr": "doucement, lentement", "alt": ["bchwia", "beshwiya"]}
+      ],
+      "drills": [
+        {"q": "« Où ? » se dit : ___", "a": ["fin", "fin?"], "fr": "fin?"},
+        {"q": "« Arrête-toi ici » : ___ hna", "a": ["7bess", "7bes", "hbes"], "fr": "7bess hna"},
+        {"q": "« Tourne à droite » : dour 3la ___", "a": ["limen"], "fr": "dour 3la limen"},
+        {"q": "« Va tout droit » : sir ___", "a": ["nichan", "nishan"], "fr": "sir nichan"},
+        {"q": "« Maintenant » : ___", "a": ["daba"], "fr": "daba"},
+        {"q": "« Je veux aller à… » : bghit ___ l…", "a": ["nmchi", "nemchi"], "fr": "bghit nmchi l…"}
+      ],
+      "oreille": {
+        "title": "Les voyelles qui tombent",
+        "tip": "Le darija avale beaucoup de voyelles : *b3id* se dit presque « bɛid », *khdma* enchaîne trois consonnes. Écoute le nombre de syllabes que tu entends vraiment.",
+        "prompt": "Combien de syllabes entends-tu ?",
+        "letters": [
+          {"w": "khdma", "ar": "خْدْمَة", "fr": "travail", "a": "2"},
+          {"w": "daba", "ar": "دَابَا", "fr": "maintenant", "a": "2"},
+          {"w": "tomobil", "ar": "طُومُوبِيلْ", "fr": "voiture", "a": "3"},
+          {"w": "bchwiya", "ar": "بْشْوِيَّة", "fr": "doucement", "a": "2"},
+          {"w": "lissar", "ar": "لِيسْرْ", "fr": "gauche", "a": "2"},
+          {"w": "kifach", "ar": "كِيفَاشْ", "fr": "comment", "a": "2"},
+          {"w": "9rib", "ar": "قْرِيبْ", "fr": "près", "a": "1"},
+          {"w": "tran", "ar": "تْرَانْ", "fr": "train", "a": "1"}
+        ],
+        "choices": ["1", "2", "3"]
+      },
+      "dialogue": {
+        "title": "Dans un petit taxi",
+        "lines": [
+          {"s": "A", "t": "salam, bghit nmchi l Maarif 3afak.", "ar": "سَلَامْ، بْغِيتْ نْمْشِي لْمْعَارِيفْ عَافَاكْ", "fr": "Bonjour, je veux aller au Maarif, s'il vous plaît."},
+          {"s": "B", "t": "wakha. tl3 3afak.", "ar": "وَاخَا. طْلْعْ عَافَاكْ", "fr": "D'accord. Montez, s'il vous plaît."},
+          {"s": "A", "t": "b3id men hna?", "ar": "بْعِيدْ مْنْ هْنَا؟", "fr": "C'est loin d'ici ?"},
+          {"s": "B", "t": "la, 9rib. 3achra d9ay9.", "ar": "لَا، قْرِيبْ. عْشْرَة دْقَايْقْ", "fr": "Non, c'est près. Dix minutes."},
+          {"s": "A", "t": "dour 3la limen hna… 7bess hna, 3afak.", "ar": "دُورْ عْلَى لِيمْنْ هْنَا… حْبْسْ هْنَا، عَافَاكْ", "fr": "Tournez à droite ici… Arrêtez-vous ici, s'il vous plaît."},
+          {"s": "B", "t": "safi. khmstach drahem.", "ar": "صَافِي. خْمْسْطَّاشْ دْرَاهْمْ", "fr": "Voilà. Quinze dirhams."}
+        ]
+      },
+      "production": {
+        "prompt": "Joue la scène du taxi : dis où tu veux aller, demande si c'est loin, guide le chauffeur (droite, gauche, tout droit), et demande le prix.",
+        "model": ["salam, bghit nmchi l lagar 3afak.", "b3id?", "sir nichan, mn b3d dour 3la lissar.", "7bess hna 3afak.", "bch7al?"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lsan</title>
+<meta name="description" content="Anglais et darija, une séance par jour.">
+<meta name="theme-color" content="#2F5D8C">
+<meta name="color-scheme" content="light dark">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Lsan">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-lang="en">
+<header class="top">
+  <div class="brand"><span class="brand-ar" lang="ar">لسان</span><span class="brand-name">Lsan</span></div>
+  <div class="switch" role="tablist" aria-label="Langue">
+    <button role="tab" data-switch="en">Anglais</button>
+    <button role="tab" data-switch="dj">Darija</button>
+  </div>
+</header>
+<main id="app" tabindex="-1"><p class="loading">Chargement…</p></main>
+<nav class="tabs" aria-label="Navigation">
+  <button data-tab="today"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg><span>Aujourd'hui</span></button>
+  <button data-tab="lessons"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5h6.5a2 2 0 0 1 2 2V19a1.5 1.5 0 0 0-1.5-1.5H4zM20 5.5h-6.5a2 2 0 0 0-2 2V19a1.5 1.5 0 0 1 1.5-1.5H20z"/></svg><span>Leçons</span></button>
+  <button data-tab="review"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="6" width="13" height="13" rx="2"/><path d="M8 3.5h10.5a2 2 0 0 1 2 2V16"/></svg><span>Réviser</span></button>
+  <button data-tab="progress"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19V12M10 19V7M15 19v-5M20 19V4"/></svg><span>Progrès</span></button>
+</nav>
+<script src="fsrs.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -15,7 +15,7 @@ import sherpa_onnx, soundfile as sf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODELS = os.environ.get('LSAN_MODELS', '/home/claude/models')
-DJ_VOICE = os.environ.get('LSAN_DJ_VOICE', 'vits-piper-ar_JO-kareem-medium')
+DJ_VOICE = os.environ.get('LSAN_DJ_VOICE', 'vits-piper-ar_JO-SA_miro_V2-high')
 
 # Kokoro v0.19 : 0 af, 1 af_bella, 2 af_nicole, 3 af_sarah, 4 af_sky, 5 am_adam,
 # 6 am_michael, 7 bf_emma, 8 bf_isabella, 9 bm_george, 10 bm_lewis

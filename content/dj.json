@@ -218,7 +218,7 @@
       },
       "production": {
         "prompt": "Présente-toi : ton prénom, d'où tu viens, où tu habites, et ta famille (frères, sœurs, enfants). Adapte les phrases à ta vraie situation.",
-        "model": ["smiti Mehdi.", "ana men Casa.", "ka nskon f França.", "3ndi khouya w khti.", "bba w mama f Casa."]
+        "model": ["smiti Mehdi.", "ana men Casa.", "ka nskon f Fransa.", "3ndi khouya w khti.", "bba w mama f Casa."]
       }
     },
     {

@@ -48,7 +48,7 @@
         "tip": "Le 3 (ع) et le 7 (ح) n'existent pas en français. Le 7 est un souffle fort, sans voix. Le 3 se fait au même endroit, mais avec la voix, comme une voyelle serrée. Écoute le début de chaque mot.",
         "prompt": "Par quel son commence ce mot ?",
         "letters": [
-          {"w": "3ayn", "ar": "عِينْ", "fr": "œil", "a": "3"},
+          {"w": "3in", "ar": "عِينْ", "fr": "œil", "a": "3"},
           {"w": "3afak", "ar": "عَافَاكْ", "fr": "s'il te plaît", "a": "3"},
           {"w": "3ndi", "ar": "عَنْدِي", "fr": "j'ai", "a": "3"},
           {"w": "7ut", "ar": "حُوتْ", "fr": "poisson", "a": "7"},
@@ -162,8 +162,8 @@
       "items": [
         {"t": "smiti…", "ar": "سْمِيتِي", "fr": "je m'appelle…", "alt": ["smiyti"], "ex": "smiti Mehdi", "exAr": "سْمِيتِي مَهْدِي", "exFr": "Je m'appelle Mehdi."},
         {"t": "chno smitek?", "ar": "شْنُو سْمِيتْكْ؟", "fr": "comment tu t'appelles ?", "alt": ["chnou smitek", "chno smytek"]},
-        {"t": "ana men…", "ar": "أَنَا مْنْ", "fr": "je suis de…", "alt": ["ana mn"], "ex": "ana men Casablanca", "exAr": "أَنَا مْنْ كَازَا", "exFr": "Je suis de Casablanca."},
-        {"t": "ka nskon f…", "ar": "كَنْسْكُنْ فْ", "fr": "j'habite à…", "alt": ["kanskon f", "kansken f"], "ex": "ka nskon f França", "exAr": "كَنْسْكُنْ فْ فْرَانْسَا", "exFr": "J'habite en France."},
+        {"t": "ana men…", "ar": "أَنَا مْنْ", "fr": "je suis de…", "alt": ["ana mn"], "ex": "ana men Casa", "exAr": "أَنَا مْنْ كَازَا", "exFr": "Je suis de Casablanca."},
+        {"t": "ka nskon f…", "ar": "كَنْسْكُنْ فْ", "fr": "j'habite à…", "alt": ["kanskon f", "kansken f"], "ex": "ka nskon f Fransa", "exAr": "كَنْسْكُنْ فْ فْرَانْسَا", "exFr": "J'habite en France."},
         {"t": "ka nkhdem", "ar": "كَنْخْدْمْ", "fr": "je travaille", "alt": ["kankhdem", "ka nkhdm"]},
         {"t": "bba", "ar": "بَّا", "fr": "papa, mon père", "alt": ["baba", "ba"]},
         {"t": "mama", "ar": "مَامَا", "fr": "maman, ma mère", "alt": ["mmi", "yemma"]},
@@ -209,7 +209,7 @@
         "title": "Faire connaissance",
         "lines": [
           {"s": "A", "t": "salam, chno smitek?", "ar": "سَلَامْ، شْنُو سْمِيتْكْ؟", "fr": "Bonjour, comment tu t'appelles ?"},
-          {"s": "B", "t": "smiti Mehdi. ana men Casa, walakin ka nskon f França.", "ar": "سْمِيتِي مَهْدِي. أَنَا مْنْ كَازَا، وَلَكِنْ كَنْسْكُنْ فْ فْرَانْسَا", "fr": "Je m'appelle Mehdi. Je suis de Casablanca, mais j'habite en France."},
+          {"s": "B", "t": "smiti Mehdi. ana men Casa, walakin ka nskon f Fransa.", "ar": "سْمِيتِي مَهْدِي. أَنَا مْنْ كَازَا، وَلَكِنْ كَنْسْكُنْ فْ فْرَانْسَا", "fr": "Je m'appelle Mehdi. Je suis de Casablanca, mais j'habite en France."},
           {"s": "A", "t": "mr7ba! nta mzawwej?", "ar": "مَرْحْبَا! نْتَا مْزَوّْجْ؟", "fr": "Bienvenue ! Tu es marié ?"},
           {"s": "B", "t": "iyeh, w 3ndi jouj drari.", "ar": "إِيِّيهْ، وْ عَنْدِي جُوجْ دْرَارِي", "fr": "Oui, et j'ai deux enfants."},
           {"s": "A", "t": "llah y7fdhoum. w bbak w mamak?", "ar": "اللَّهْ يْحْفْظْهُمْ. وْ بَّاكْ وْ مَامَاكْ؟", "fr": "Que Dieu les protège. Et ton père et ta mère ?"},
